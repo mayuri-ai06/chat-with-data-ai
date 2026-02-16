@@ -87,7 +87,7 @@ streamlit run app.py
 
 ## 📊 Application Flowchart
 
-![Flowchart](assets/flowchart.png)
+![Flowchart](https://github.com/mayuri-ai06/chat-with-data-ai/blob/main/assets/flowchart.jpeg?raw=true)
 
 ---
 ## 🧪 Application Output
