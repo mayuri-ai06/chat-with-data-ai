@@ -50,7 +50,7 @@ The system analyzes the data and automatically generates answers using **LLM (Gr
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/your-username/AI-Data-Analyst-Assistant.git
+git clonehttps://github.com/mayuri-ai06/chat-with-data-ai
 cd AI-Data-Analyst-Assistant
 ```
 
