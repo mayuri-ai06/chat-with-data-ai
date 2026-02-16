@@ -92,8 +92,8 @@ streamlit run app.py
 ---
 ## 🧪 Application Output
 
-![Output](assets/output.png)
-
+![Output](https://github.com/mayuri-ai06/chat-with-data-ai/blob/main/assets/OUTPUT%202.png?raw=true)
+![Output](https://github.com/mayuri-ai06/chat-with-data-ai/blob/main/assets/OUTPUT%202.png?raw=true)
 
 ## 🎯 Purpose
 
